@@ -1,0 +1,176 @@
+@charset "utf-8";
+/* CSS Document */
+
+.banner{
+	color: sandybrown;
+	font-family: papyrus;
+	font-size: 33px;
+	text-align: center;
+	text-shadow: 3px 1px;
+	font-weight: bolder;
+	margin: 0px;
+	padding: 0px;
+	width: 1360px;
+	height: 50px;
+background: -webkit-radial-gradient(ellipse,orange,red,yellow);
+}
+
+.nav1{
+	margin: 20px 0px;;
+	padding:0px;
+	float: left;
+	width: 1360px;
+	text-align: center;
+
+	
+	
+	
+}
+
+nav ul{
+	
+	list-style: none;
+	width: 1360px;
+	margin-bottom: 100px;
+}
+
+nav ul li{
+	float: left;
+	padding: 0px;
+	margin: 0px;
+	
+	
+}
+
+
+
+nav ul li a{
+	
+	text-decoration: none;
+	color:brown;
+	font-size: 30px;
+	padding: 3px 102.7px;
+	
+	
+}
+
+nav ul li a:hover{
+	color: sandybrown;
+	font-family: papyrus;
+	
+	
+}
+
+.body1{
+	background: #FFEE63;
+	margin: 0px;
+	padding: 3px;
+}
+
+
+
+.p1{
+	color:brown;
+	font-family: papyrus;
+	font-size: 23px;
+	width: 700px;
+}
+
+
+
+article{
+	width: 900px;
+	height: 500px;
+	float: bottom;
+	margin-top: 100px;
+	
+	
+}
+
+.pp{
+	font-weight: 800;
+	width: 1300px;
+	text-indent: 20px;
+	padding: 10px;
+	height: 0px;
+}
+
+section{
+	
+	width: 900px;
+	height: 400px;
+	float: left;
+	
+	
+}
+
+.p2{
+	
+	color:brown;
+	font-family: papyrus;
+	font-size: 23px;
+	width: 700px;
+}
+
+main{
+	
+
+	width: 900px;
+	height: 800px;
+	float: left;
+}
+	
+aside{
+	width: 443px;
+	height: 800px;
+	float: left;
+}
+
+aside ul li{
+	
+
+	font-family: Comic Sans MS;
+	font-size: 33px;
+	margin: 77px 0px;
+	text-align: center;
+	
+	
+}
+
+
+.footer1{
+	text-align: center;
+	margin-top: 1360px;
+	border: solid;
+}
+
+.footer2{
+	text-align: center;
+	margin-top: 800px;
+	border: solid;
+	
+}
+
+h3{
+	
+	text-align: center;
+	font-weight: 800;
+	width: 1300px;
+	text-indent: 20px;
+	padding: 10px;
+	height: 0px;
+}
+
+.footer3{
+	text-align: center;
+	margin-top: 400px;
+	border: solid;
+	
+}
+
+.footer4{
+	text-align: center;
+	margin-top: 200px;
+	border: solid;
+	
+}
